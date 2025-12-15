@@ -1,4 +1,6 @@
-# Enhancement One: Software Design and Engineering  
+---
+title: "Enhancement One: Software Design & Engineering"
+---
 **Artifact: Smart Inventory Android Application**
 
 ## Overview

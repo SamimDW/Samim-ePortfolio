@@ -18,7 +18,3 @@ Focus: Android development, secure systems, and cloud-backed applications
 - [Enhancement 2: Algorithms and Data Structures](pages/enhancement-2-algorithms.md)
 - [Enhancement 3: Databases](pages/enhancement-3-databases.md)
 - [Source Code Repositories](pages/source-code.md)
-
-## Source Code
-- Enhanced version: *(paste your repo link here)*
-- Original version (pre-CS499): *(paste your original branch link here)*

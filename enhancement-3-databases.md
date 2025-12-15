@@ -1,5 +1,5 @@
 ---
-title: Enhancement Three: Databases
+title: "Enhancement Three: Databases"
 ---
 
 **Artifact: Smart Inventory Android Application**

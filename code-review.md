@@ -19,6 +19,7 @@ This video reviews the Smart Inventory artifact before enhancements. I explain e
     </iframe>
   </div>
 </div>
+<br>
 
 ## What I Covered
 - Existing functionality walkthrough

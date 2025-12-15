@@ -2,8 +2,6 @@
 title: "Professional Self-Assessment"
 ---
 
----
-
 
 Completing the Computer Science program at Southern New Hampshire University strengthened both my technical skills and my approach to problem-solving. Over the course of the program, I moved from writing code that simply worked to designing systems that are readable, maintainable, and secure. Developing this ePortfolio helped me reflect on that growth and present concrete evidence of how my coursework prepared me for real-world software development.
 
@@ -19,4 +17,3 @@ Security became a design consideration rather than an afterthought as I progress
 
 The artifacts in this ePortfolio work together to demonstrate this progression. Rather than showcasing disconnected projects, the portfolio centers on a single application that was enhanced across software design, algorithms and data structures, and databases. Each enhancement builds on the previous one, resulting in a cohesive system that reflects real development practices. Together, these artifacts illustrate my ability to design, evaluate, and improve software in a way that delivers value while remaining maintainable and secure.
 
----

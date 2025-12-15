@@ -1,4 +1,6 @@
-# Artifact: Smart Inventory Android Application
+---
+title: "Artifact: Smart Inventory Application"
+---
 
 ## What it is
 Smart Inventory is an Android application that allows a user to create, update, and delete inventory items. The app displays items in a RecyclerView and provides summary statistics, such as total items and low-stock counts, to support basic inventory tracking.

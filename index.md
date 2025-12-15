@@ -4,6 +4,7 @@ title: "Professional Self-Assessment"
 
 ---
 
+
 Completing the Computer Science program at Southern New Hampshire University strengthened both my technical skills and my approach to problem-solving. Over the course of the program, I moved from writing code that simply worked to designing systems that are readable, maintainable, and secure. Developing this ePortfolio helped me reflect on that growth and present concrete evidence of how my coursework prepared me for real-world software development.
 
 Throughout the program, I learned that effective collaboration is essential to building reliable software. In team-based and Agile-style coursework, I practiced breaking work into clear tasks, communicating design decisions, and responding to feedback through iteration. I learned to treat code reviews, documentation, and version control as part of collaboration, not as separate tasks. These experiences shaped how I approach teamwork, with an emphasis on clarity, shared ownership, and long-term maintainability.

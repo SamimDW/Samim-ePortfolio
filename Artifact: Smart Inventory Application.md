@@ -3,7 +3,7 @@ title: "Artifact: Smart Inventory Android Application"
 ---
 
 ## What it is
-Smart Inventory is an Android application that allows a user to create, update, and delete inventory items. The app displays items in a RecyclerView and provides summary statistics, such as total items and low-stock counts, to support basic inventory tracking.
+Smart Inventory is an Android application that enables users to create, update, and delete inventory items. The app displays items in a RecyclerView and provides summary statistics, such as the total number of items and low-stock counts, to support basic inventory tracking.
 
 ## When it was created
 The original version of this application was created in CS 360 (Mobile Architecture and Programming). It was later selected and enhanced in CS 499 as part of the capstone project.
@@ -20,7 +20,7 @@ The enhancements focused on strengthening the application in three areas:
 ## Artifact Source Code
 
 - **Original version (CS 360):**  
-  [https://github.com/your-username/smart-inventory/tree/cs360-original](https://github.com/SamimDW/Smart-Inventory/tree/original)
+  [https://github.com/SamimDW/smart-inventory/tree/original](https://github.com/SamimDW/Smart-Inventory/tree/original)
 
 - **Enhanced version (CS 499):**  
-  [https://github.com/your-username/smart-inventory](https://github.com/SamimDW/Smart-Inventory)
+  [https://github.com/SamimDW/smart-inventory](https://github.com/SamimDW/Smart-Inventory)

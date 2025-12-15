@@ -4,8 +4,6 @@ title: "Professional Self-Assessment"
 
 ---
 
-## Professional Self-Assessment
-
 Completing the Computer Science program at Southern New Hampshire University strengthened both my technical skills and my approach to problem-solving. Over the course of the program, I moved from writing code that simply worked to designing systems that are readable, maintainable, and secure. Developing this ePortfolio helped me reflect on that growth and present concrete evidence of how my coursework prepared me for real-world software development.
 
 Throughout the program, I learned that effective collaboration is essential to building reliable software. In team-based and Agile-style coursework, I practiced breaking work into clear tasks, communicating design decisions, and responding to feedback through iteration. I learned to treat code reviews, documentation, and version control as part of collaboration, not as separate tasks. These experiences shaped how I approach teamwork, with an emphasis on clarity, shared ownership, and long-term maintainability.
@@ -21,12 +19,3 @@ Security became a design consideration rather than an afterthought as I progress
 The artifacts in this ePortfolio work together to demonstrate this progression. Rather than showcasing disconnected projects, the portfolio centers on a single application that was enhanced across software design, algorithms and data structures, and databases. Each enhancement builds on the previous one, resulting in a cohesive system that reflects real development practices. Together, these artifacts illustrate my ability to design, evaluate, and improve software in a way that delivers value while remaining maintainable and secure.
 
 ---
-
-## Portfolio Navigation
-
-- [Informal Code Review Video](pages/code-review.md)
-- [Artifact Overview: Smart Inventory](pages/artifact-smart-inventory.md)
-- [Enhancement 1: Software Design and Engineering](pages/enhancement-1-design.md)
-- [Enhancement 2: Algorithms and Data Structures](pages/enhancement-2-algorithms.md)
-- [Enhancement 3: Databases](pages/enhancement-3-databases.md)
-- [Source Code Repositories](pages/source-code.md)

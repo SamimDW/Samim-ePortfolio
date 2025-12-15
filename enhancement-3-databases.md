@@ -1,4 +1,4 @@
-# Enhancement Three: Databases  
+
 **Artifact: Smart Inventory Android Application**
 
 ## Overview

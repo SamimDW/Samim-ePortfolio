@@ -1,4 +1,6 @@
-# Enhancement Two: Algorithms and Data Structures  
+---
+title: "Enhancement Two: Algorithms"
+--- 
 **Artifact: Smart Inventory Android Application**
 
 ## Overview

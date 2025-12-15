@@ -18,7 +18,7 @@ This video reviews the Smart Inventory artifact before enhancements. I explain e
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
     </iframe>
   </div>
-</div
+</div>
 
 ## What I Covered
 - Existing functionality walkthrough
